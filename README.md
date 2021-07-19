@@ -1,1 +1,1 @@
-# ExploreGlobe
+# ExploreGlobe its is a basics GUI applications. Programmed in Microsoft Visual Basic. It is a simple travel & tourism application from where you can log in to plan your whole jurney by ristering for hotels and restrurents and even hire a vehicle at the place you are plaing to visit.
